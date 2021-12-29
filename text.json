@@ -1,0 +1,465 @@
+{
+    "search_metadata": {
+        "id": "61cc1514272aa5cde7254ab6",
+        "status": "Success",
+        "json_endpoint": "https://serpapi.com/searches/791d412a362e86a3/61cc1514272aa5cde7254ab6.json",
+        "created_at": "2021-12-29 07:58:12 UTC",
+        "processed_at": "2021-12-29 07:58:12 UTC",
+        "google_url": "https://www.google.com/search?q=ai+l%C3%A0+ng%C6%B0%E1%BB%9Di+gi%C3%A0u+nh%E1%BA%A5t+vi%E1%BB%87t+nam&oq=ai+l%C3%A0+ng%C6%B0%E1%BB%9Di+gi%C3%A0u+nh%E1%BA%A5t+vi%E1%BB%87t+nam&sourceid=chrome&ie=UTF-8",
+        "raw_html_file": "https://serpapi.com/searches/791d412a362e86a3/61cc1514272aa5cde7254ab6.html",
+        "total_time_taken": 0.71
+    },
+    "search_parameters": {
+        "engine": "google",
+        "q": "ai l\u00e0 ng\u01b0\u1eddi gi\u00e0u nh\u1ea5t vi\u1ec7t nam",
+        "google_domain": "google.com",
+        "device": "desktop"
+    },
+    "search_information": {
+        "organic_results_state": "Results for exact spelling",
+        "query_displayed": "ai l\u00e0 ng\u01b0\u1eddi gi\u00e0u nh\u1ea5t vi\u1ec7t nam",
+        "total_results": 72700000,
+        "time_taken_displayed": 0.54
+    },
+    "inline_images": [
+        {
+            "link": "/search?q=ai+l%C3%A0+ng%C6%B0%E1%BB%9Di+gi%C3%A0u+nh%E1%BA%A5t+vi%E1%BB%87t+nam&tbm=isch&source=iu&ictx=1&fir=6uCWRrCO-nQ3XM%252CSSn96pCYpQKAWM%252C_%253BU9EJrSKuQHk5qM%252CYA07YnVgNOgb5M%252C_%253Bvg5kISS27lcRzM%252CSSn96pCYpQKAWM%252C_%253BVycmJLGbTVqMwM%252C5Vc_6KxbYhoV_M%252C_%253BXpXffpgEmSyBwM%252C4u6fcANPB-14PM%252C_%253B4c82U2xTIWWbqM%252CFAU-iPHXZ069FM%252C_%253BPjzT0D9ykFRDyM%252C69DN-wmceMZWcM%252C_%253BccLMhwTCd3HP9M%252COMDHguPSlSGIsM%252C_%253BEJ9pQqPoE5XIoM%252CeAPDlDbswL9MxM%252C_%253BTcGu0qz2BFFKtM%252Cc98IF-XcSrvVrM%252C_&vet=1&usg=AI4_-kTf3M8bPbXscK-7rFJtjljtrvPNTw&sa=X&ved=2ahUKEwiC_K3lxIj1AhWidt8KHeU-AUMQ9QF6BAgZEAE#imgrc=6uCWRrCO-nQ3XM",
+            "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRYtSNSAPdotlZy9R60rs-mPj68E0Q2i3DGb_EXGqEWcA&s"
+        },
+        {
+            "link": "/search?q=ai+l%C3%A0+ng%C6%B0%E1%BB%9Di+gi%C3%A0u+nh%E1%BA%A5t+vi%E1%BB%87t+nam&tbm=isch&source=iu&ictx=1&fir=6uCWRrCO-nQ3XM%252CSSn96pCYpQKAWM%252C_%253BU9EJrSKuQHk5qM%252CYA07YnVgNOgb5M%252C_%253Bvg5kISS27lcRzM%252CSSn96pCYpQKAWM%252C_%253BVycmJLGbTVqMwM%252C5Vc_6KxbYhoV_M%252C_%253BXpXffpgEmSyBwM%252C4u6fcANPB-14PM%252C_%253B4c82U2xTIWWbqM%252CFAU-iPHXZ069FM%252C_%253BPjzT0D9ykFRDyM%252C69DN-wmceMZWcM%252C_%253BccLMhwTCd3HP9M%252COMDHguPSlSGIsM%252C_%253BEJ9pQqPoE5XIoM%252CeAPDlDbswL9MxM%252C_%253BTcGu0qz2BFFKtM%252Cc98IF-XcSrvVrM%252C_&vet=1&usg=AI4_-kTf3M8bPbXscK-7rFJtjljtrvPNTw&sa=X&ved=2ahUKEwiC_K3lxIj1AhWidt8KHeU-AUMQ9QF6BAglEAE#imgrc=U9EJrSKuQHk5qM",
+            "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQFLgX5_t10LJfuLTeK3iBt12hCSpqbLt-WevY-9Nve3Q&s"
+        },
+        {
+            "link": "/search?q=ai+l%C3%A0+ng%C6%B0%E1%BB%9Di+gi%C3%A0u+nh%E1%BA%A5t+vi%E1%BB%87t+nam&tbm=isch&source=iu&ictx=1&fir=6uCWRrCO-nQ3XM%252CSSn96pCYpQKAWM%252C_%253BU9EJrSKuQHk5qM%252CYA07YnVgNOgb5M%252C_%253Bvg5kISS27lcRzM%252CSSn96pCYpQKAWM%252C_%253BVycmJLGbTVqMwM%252C5Vc_6KxbYhoV_M%252C_%253BXpXffpgEmSyBwM%252C4u6fcANPB-14PM%252C_%253B4c82U2xTIWWbqM%252CFAU-iPHXZ069FM%252C_%253BPjzT0D9ykFRDyM%252C69DN-wmceMZWcM%252C_%253BccLMhwTCd3HP9M%252COMDHguPSlSGIsM%252C_%253BEJ9pQqPoE5XIoM%252CeAPDlDbswL9MxM%252C_%253BTcGu0qz2BFFKtM%252Cc98IF-XcSrvVrM%252C_&vet=1&usg=AI4_-kTf3M8bPbXscK-7rFJtjljtrvPNTw&sa=X&ved=2ahUKEwiC_K3lxIj1AhWidt8KHeU-AUMQ9QF6BAgmEAE#imgrc=vg5kISS27lcRzM",
+            "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSDnQtFzv1oPsx4IK9DTzcVsAUSL9KXICprcwklKFHg5w&s"
+        },
+        {
+            "link": "/search?q=ai+l%C3%A0+ng%C6%B0%E1%BB%9Di+gi%C3%A0u+nh%E1%BA%A5t+vi%E1%BB%87t+nam&tbm=isch&source=iu&ictx=1&fir=6uCWRrCO-nQ3XM%252CSSn96pCYpQKAWM%252C_%253BU9EJrSKuQHk5qM%252CYA07YnVgNOgb5M%252C_%253Bvg5kISS27lcRzM%252CSSn96pCYpQKAWM%252C_%253BVycmJLGbTVqMwM%252C5Vc_6KxbYhoV_M%252C_%253BXpXffpgEmSyBwM%252C4u6fcANPB-14PM%252C_%253B4c82U2xTIWWbqM%252CFAU-iPHXZ069FM%252C_%253BPjzT0D9ykFRDyM%252C69DN-wmceMZWcM%252C_%253BccLMhwTCd3HP9M%252COMDHguPSlSGIsM%252C_%253BEJ9pQqPoE5XIoM%252CeAPDlDbswL9MxM%252C_%253BTcGu0qz2BFFKtM%252Cc98IF-XcSrvVrM%252C_&vet=1&usg=AI4_-kTf3M8bPbXscK-7rFJtjljtrvPNTw&sa=X&ved=2ahUKEwiC_K3lxIj1AhWidt8KHeU-AUMQ9QF6BAgoEAE#imgrc=VycmJLGbTVqMwM",
+            "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSUib59heHtLLD_y8JHeUfO6elNJf_HXfjJqglTSzJgaQ&s"
+        },
+        {
+            "link": "/search?q=ai+l%C3%A0+ng%C6%B0%E1%BB%9Di+gi%C3%A0u+nh%E1%BA%A5t+vi%E1%BB%87t+nam&tbm=isch&source=iu&ictx=1&fir=6uCWRrCO-nQ3XM%252CSSn96pCYpQKAWM%252C_%253BU9EJrSKuQHk5qM%252CYA07YnVgNOgb5M%252C_%253Bvg5kISS27lcRzM%252CSSn96pCYpQKAWM%252C_%253BVycmJLGbTVqMwM%252C5Vc_6KxbYhoV_M%252C_%253BXpXffpgEmSyBwM%252C4u6fcANPB-14PM%252C_%253B4c82U2xTIWWbqM%252CFAU-iPHXZ069FM%252C_%253BPjzT0D9ykFRDyM%252C69DN-wmceMZWcM%252C_%253BccLMhwTCd3HP9M%252COMDHguPSlSGIsM%252C_%253BEJ9pQqPoE5XIoM%252CeAPDlDbswL9MxM%252C_%253BTcGu0qz2BFFKtM%252Cc98IF-XcSrvVrM%252C_&vet=1&usg=AI4_-kTf3M8bPbXscK-7rFJtjljtrvPNTw&sa=X&ved=2ahUKEwiC_K3lxIj1AhWidt8KHeU-AUMQ9QF6BAgvEAE#imgrc=XpXffpgEmSyBwM",
+            "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSPbcgquXeuTlEAYdkNkHryf4jJYDQPPbZkuA-KZfu-ow&s"
+        },
+        {
+            "link": "/search?q=ai+l%C3%A0+ng%C6%B0%E1%BB%9Di+gi%C3%A0u+nh%E1%BA%A5t+vi%E1%BB%87t+nam&tbm=isch&source=iu&ictx=1&fir=6uCWRrCO-nQ3XM%252CSSn96pCYpQKAWM%252C_%253BU9EJrSKuQHk5qM%252CYA07YnVgNOgb5M%252C_%253Bvg5kISS27lcRzM%252CSSn96pCYpQKAWM%252C_%253BVycmJLGbTVqMwM%252C5Vc_6KxbYhoV_M%252C_%253BXpXffpgEmSyBwM%252C4u6fcANPB-14PM%252C_%253B4c82U2xTIWWbqM%252CFAU-iPHXZ069FM%252C_%253BPjzT0D9ykFRDyM%252C69DN-wmceMZWcM%252C_%253BccLMhwTCd3HP9M%252COMDHguPSlSGIsM%252C_%253BEJ9pQqPoE5XIoM%252CeAPDlDbswL9MxM%252C_%253BTcGu0qz2BFFKtM%252Cc98IF-XcSrvVrM%252C_&vet=1&usg=AI4_-kTf3M8bPbXscK-7rFJtjljtrvPNTw&sa=X&ved=2ahUKEwiC_K3lxIj1AhWidt8KHeU-AUMQ9QF6BAgwEAE#imgrc=4c82U2xTIWWbqM",
+            "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRxL5n-JnxR7fFf3lUbkii7vLis5xhFAFsxfIb5z9no3g&s"
+        },
+        {
+            "link": "/search?q=ai+l%C3%A0+ng%C6%B0%E1%BB%9Di+gi%C3%A0u+nh%E1%BA%A5t+vi%E1%BB%87t+nam&tbm=isch&source=iu&ictx=1&fir=6uCWRrCO-nQ3XM%252CSSn96pCYpQKAWM%252C_%253BU9EJrSKuQHk5qM%252CYA07YnVgNOgb5M%252C_%253Bvg5kISS27lcRzM%252CSSn96pCYpQKAWM%252C_%253BVycmJLGbTVqMwM%252C5Vc_6KxbYhoV_M%252C_%253BXpXffpgEmSyBwM%252C4u6fcANPB-14PM%252C_%253B4c82U2xTIWWbqM%252CFAU-iPHXZ069FM%252C_%253BPjzT0D9ykFRDyM%252C69DN-wmceMZWcM%252C_%253BccLMhwTCd3HP9M%252COMDHguPSlSGIsM%252C_%253BEJ9pQqPoE5XIoM%252CeAPDlDbswL9MxM%252C_%253BTcGu0qz2BFFKtM%252Cc98IF-XcSrvVrM%252C_&vet=1&usg=AI4_-kTf3M8bPbXscK-7rFJtjljtrvPNTw&sa=X&ved=2ahUKEwiC_K3lxIj1AhWidt8KHeU-AUMQ9QF6BAgyEAE#imgrc=PjzT0D9ykFRDyM",
+            "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTu-HRuuk_taAJ2c2Q61Q8Nh44Jd6404bnrG_NfchxDYg&s"
+        },
+        {
+            "link": "/search?q=ai+l%C3%A0+ng%C6%B0%E1%BB%9Di+gi%C3%A0u+nh%E1%BA%A5t+vi%E1%BB%87t+nam&tbm=isch&source=iu&ictx=1&fir=6uCWRrCO-nQ3XM%252CSSn96pCYpQKAWM%252C_%253BU9EJrSKuQHk5qM%252CYA07YnVgNOgb5M%252C_%253Bvg5kISS27lcRzM%252CSSn96pCYpQKAWM%252C_%253BVycmJLGbTVqMwM%252C5Vc_6KxbYhoV_M%252C_%253BXpXffpgEmSyBwM%252C4u6fcANPB-14PM%252C_%253B4c82U2xTIWWbqM%252CFAU-iPHXZ069FM%252C_%253BPjzT0D9ykFRDyM%252C69DN-wmceMZWcM%252C_%253BccLMhwTCd3HP9M%252COMDHguPSlSGIsM%252C_%253BEJ9pQqPoE5XIoM%252CeAPDlDbswL9MxM%252C_%253BTcGu0qz2BFFKtM%252Cc98IF-XcSrvVrM%252C_&vet=1&usg=AI4_-kTf3M8bPbXscK-7rFJtjljtrvPNTw&sa=X&ved=2ahUKEwiC_K3lxIj1AhWidt8KHeU-AUMQ9QF6BAg0EAE#imgrc=ccLMhwTCd3HP9M",
+            "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR1iHELS1FtqgpVy9j9FV6SpWXdWepT6zBSiXbkmi4vtQ&s"
+        },
+        {
+            "link": "/search?q=ai+l%C3%A0+ng%C6%B0%E1%BB%9Di+gi%C3%A0u+nh%E1%BA%A5t+vi%E1%BB%87t+nam&tbm=isch&source=iu&ictx=1&fir=6uCWRrCO-nQ3XM%252CSSn96pCYpQKAWM%252C_%253BU9EJrSKuQHk5qM%252CYA07YnVgNOgb5M%252C_%253Bvg5kISS27lcRzM%252CSSn96pCYpQKAWM%252C_%253BVycmJLGbTVqMwM%252C5Vc_6KxbYhoV_M%252C_%253BXpXffpgEmSyBwM%252C4u6fcANPB-14PM%252C_%253B4c82U2xTIWWbqM%252CFAU-iPHXZ069FM%252C_%253BPjzT0D9ykFRDyM%252C69DN-wmceMZWcM%252C_%253BccLMhwTCd3HP9M%252COMDHguPSlSGIsM%252C_%253BEJ9pQqPoE5XIoM%252CeAPDlDbswL9MxM%252C_%253BTcGu0qz2BFFKtM%252Cc98IF-XcSrvVrM%252C_&vet=1&usg=AI4_-kTf3M8bPbXscK-7rFJtjljtrvPNTw&sa=X&ved=2ahUKEwiC_K3lxIj1AhWidt8KHeU-AUMQ9QF6BAgpEAE#imgrc=EJ9pQqPoE5XIoM",
+            "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS4jhqdna1PCnKhd-8xKlo5Jmg_EHUHC_DKmxnc0sx0VA&s"
+        },
+        {
+            "link": "/search?q=ai+l%C3%A0+ng%C6%B0%E1%BB%9Di+gi%C3%A0u+nh%E1%BA%A5t+vi%E1%BB%87t+nam&tbm=isch&source=iu&ictx=1&fir=6uCWRrCO-nQ3XM%252CSSn96pCYpQKAWM%252C_%253BU9EJrSKuQHk5qM%252CYA07YnVgNOgb5M%252C_%253Bvg5kISS27lcRzM%252CSSn96pCYpQKAWM%252C_%253BVycmJLGbTVqMwM%252C5Vc_6KxbYhoV_M%252C_%253BXpXffpgEmSyBwM%252C4u6fcANPB-14PM%252C_%253B4c82U2xTIWWbqM%252CFAU-iPHXZ069FM%252C_%253BPjzT0D9ykFRDyM%252C69DN-wmceMZWcM%252C_%253BccLMhwTCd3HP9M%252COMDHguPSlSGIsM%252C_%253BEJ9pQqPoE5XIoM%252CeAPDlDbswL9MxM%252C_%253BTcGu0qz2BFFKtM%252Cc98IF-XcSrvVrM%252C_&vet=1&usg=AI4_-kTf3M8bPbXscK-7rFJtjljtrvPNTw&sa=X&ved=2ahUKEwiC_K3lxIj1AhWidt8KHeU-AUMQ9QF6BAg2EAE#imgrc=TcGu0qz2BFFKtM",
+            "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTlm39xzDSuZRUfmWv6KU05vkcpKTTikqr0L2OW-DAuag&s"
+        }
+    ],
+    "inline_videos": [
+        {
+            "position": 1,
+            "title": "(VTC14)_\u0110\u00e3 c\u00f3 ng\u01b0\u1eddi Vi\u1ec7t gi\u00e0u h\u01a1n c\u1ea3 t\u1ef7 ph\u00fa Ph\u1ea1m Nh\u1eadt ...",
+            "link": "https://www.youtube.com/watch?v=ViHJhYYDRTw",
+            "thumbnail": "https://serpapi.com/searches/61cc1514272aa5cde7254ab6/images/977cf8cdb51c7b1fa4978a97f416b5a373bdbc243af0819aecf61413aa1c4b10.jpeg",
+            "channel": "K\u00caNH VTC14",
+            "duration": "2:37",
+            "platform": "YouTube",
+            "date": "Nov 11, 2016"
+        },
+        {
+            "position": 2,
+            "title": "[Video] \u00d4ng Ph\u1ea1m Nh\u1eadt V\u01b0\u1ee3ng ti\u1ebfp t\u1ee5c l\u00e0 ng\u01b0\u1eddi gi\u00e0u nh\u1ea5t Vi\u1ec7t ...",
+            "link": "https://www.vietnamplus.vn/video-ong-pham-nhat-vuong-tiep-tuc-la-nguoi-giau-nhat-viet-nam/704644.vnp",
+            "thumbnail": "https://serpapi.com/searches/61cc1514272aa5cde7254ab6/images/977cf8cdb51c7b1f4211f5e94a5e91576e881f9c439eec7800166d89a9cd40a9.jpeg",
+            "platform": "VietnamPlus",
+            "date": "Apr 7, 2021"
+        },
+        {
+            "position": 3,
+            "title": "6 t\u1ef7 ph\u00fa Vi\u1ec7t Nam l\u1ecdt top nh\u1eefng ng\u01b0\u1eddi gi\u00e0u nh\u1ea5t h\u00e0nh tinh ...",
+            "link": "https://www.youtube.com/watch?v=FnXl3kH382U",
+            "thumbnail": "https://serpapi.com/searches/61cc1514272aa5cde7254ab6/images/977cf8cdb51c7b1f6878852c1ae7f9d126c6bd65388f58091ad66e98b51bf2da.jpeg",
+            "channel": "K\u00caNH VTC16",
+            "duration": "17:37",
+            "platform": "YouTube",
+            "date": "Apr 8, 2021"
+        },
+        {
+            "position": 4,
+            "title": "TOP 5 T\u1ef6 PH\u00da GI\u00c0U NH\u1ea4T VI\u1ec6T NAM - Ti\u1ec1n nhi\u1ec1u \u0111\u1ec3 l\u00e0m g\u00ec?",
+            "link": "https://www.youtube.com/watch?v=WDJXJd1-Vhc",
+            "thumbnail": "https://serpapi.com/searches/61cc1514272aa5cde7254ab6/images/977cf8cdb51c7b1fa7b2ec844edd80dd87d5ca554d12925eeb3b00e9adc4bd04.jpeg",
+            "channel": "Sen V\u00e0ng Tivi",
+            "duration": "7:34",
+            "platform": "YouTube",
+            "date": "Oct 12, 2018"
+        }
+    ],
+    "inline_people_also_search_for": [
+        {
+            "title": "Gia \u0111\u00ecnh Ph\u1ea1m Nh\u1eadt V\u01b0\u1ee3ng",
+            "items": [
+                {
+                    "name": "Pham Nhat Quan Anh",
+                    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSAowSHxqvf7sIeA7rWL29X4W3zhS7Whe7pufNM19-H6B9oY3wMuIcB&s=0",
+                    "link": "https://www.google.com/search?q=Pham+Nhat+Quan+Anh&stick=H4sIAAAAAAAAAOOQUeLVT9c3NEwyLywzTivINlJMz0xUODLx8Jq8DIWCjIe7FuYq5AGptSUKZcc2PNy9OC89Sj0xUyHn8AKFvHSQyNxMhfTMwwtKwcqWApVlPtzdXqKQl5h7ihHVbAS_yKAsqQQhb2aWbp5lUoXEzzYtsKj6xajojnBMAMQxfhDHhEEd08DCuIhVKCAjESSTWKIQWJqYp-CYl3GLTZLhxkwuU-34MK7rXYVnld7fmdqYFL_8yr6WPACm2s1O9QAAAA&sa=X&ved=2ahUKEwiC_K3lxIj1AhWidt8KHeU-AUMQs9oBKAB6BAgaEAM",
+                    "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=Pham+Nhat+Quan+Anh&stick=H4sIAAAAAAAAAOOQUeLVT9c3NEwyLywzTivINlJMz0xUODLx8Jq8DIWCjIe7FuYq5AGptSUKZcc2PNy9OC89Sj0xUyHn8AKFvHSQyNxMhfTMwwtKwcqWApVlPtzdXqKQl5h7ihHVbAS_yKAsqQQhb2aWbp5lUoXEzzYtsKj6xajojnBMAMQxfhDHhEEd08DCuIhVKCAjESSTWKIQWJqYp-CYl3GLTZLhxkwuU-34MK7rXYVnld7fmdqYFL_8yr6WPACm2s1O9QAAAA"
+                },
+                {
+                    "name": "Pham Nhat Minh Anh",
+                    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSs7VMn5fbFAHTUwAbDn8MmIYaGCfsRZ6NcJ2ULuMDW4zViPBfv3_bs&s=0",
+                    "link": "https://www.google.com/search?q=Pham+Nhat+Minh+Anh&stick=H4sIAAAAAAAAAOOQUeLVT9c3NEwyLzIoSyrJNVJMz0xUODLx8Jq8DIWCjIe7FuYq5AGptSUKZcc2PNy9OC89Sj0xUyHn8AKFvHSQyNxMhfTMwwtKwcqWApVlPtzdXqKQl5h7ihFmdmGZcVpBNoIPsQvONzNLN88yqULiZ5sWWFT9YlR0RzgmAOIYP4hjwqCOaWBhXMQqFJCRCJJJLFHwzQQqdczLuMUmyXBjJpepdnwY1_WuwrNK7-9MbUyKX35lX0seANzhz4P1AAAA&sa=X&ved=2ahUKEwiC_K3lxIj1AhWidt8KHeU-AUMQs9oBKAF6BAgaEAQ",
+                    "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=Pham+Nhat+Minh+Anh&stick=H4sIAAAAAAAAAOOQUeLVT9c3NEwyLzIoSyrJNVJMz0xUODLx8Jq8DIWCjIe7FuYq5AGptSUKZcc2PNy9OC89Sj0xUyHn8AKFvHSQyNxMhfTMwwtKwcqWApVlPtzdXqKQl5h7ihFmdmGZcVpBNoIPsQvONzNLN88yqULiZ5sWWFT9YlR0RzgmAOIYP4hjwqCOaWBhXMQqFJCRCJJJLFHwzQQqdczLuMUmyXBjJpepdnwY1_WuwrNK7-9MbUyKX35lX0seANzhz4P1AAAA"
+                },
+                {
+                    "name": "Pham Thu Huong",
+                    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQNbfzROCiBqZoQzWuoxrOewisfKYINT9Gzk_TOjJsOuZgtmocLJ7sE&s=0",
+                    "link": "https://www.google.com/search?q=Pham+Thu+Huong&stick=H4sIAAAAAAAAAOOQUeLVT9c3NEwyM0s3zzKpMlJMz0xUODLx8Jq8DIWCjIe7FuYq5AGptSUKZcc2PNy9OC89Sj0xUyHn8AKFvHSQyNxMhfTMwwtKwcqWApVlPtzdXqKQl5h7ihFqtnlhmXFaQTaCX2RQllSCkIfajcTPNi2wqPrFqOiOcEwAxDF-EMeEQR3TwMK4iJUvICMxVyEko1TBozQ_L_0WmyTDjZlcptrxYVzXuwrPKr2_M7UxKX75lX0teQBVajck8QAAAA&sa=X&ved=2ahUKEwiC_K3lxIj1AhWidt8KHeU-AUMQs9oBKAJ6BAgaEAU",
+                    "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=Pham+Thu+Huong&stick=H4sIAAAAAAAAAOOQUeLVT9c3NEwyM0s3zzKpMlJMz0xUODLx8Jq8DIWCjIe7FuYq5AGptSUKZcc2PNy9OC89Sj0xUyHn8AKFvHSQyNxMhfTMwwtKwcqWApVlPtzdXqKQl5h7ihFqtnlhmXFaQTaCX2RQllSCkIfajcTPNi2wqPrFqOiOcEwAxDF-EMeEQR3TwMK4iJUvICMxVyEko1TBozQ_L_0WmyTDjZlcptrxYVzXuwrPKr2_M7UxKX75lX0teQBVajck8QAAAA"
+                },
+                {
+                    "name": "Pham Nhat Minh Hoang",
+                    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQV90ffcbN98Q-yyIGe9gXLFhtcCdipViYsinyuQAbNkbA63St3bdGo&s=0",
+                    "link": "https://www.google.com/search?q=Pham+Nhat+Hoang&stick=H4sIAAAAAAAAAOOQUeLVT9c3NEwyM8s2LbCoMlJMz0xUODLx8Jq8DIWCjIe7FuYq5AGptSUKZcc2PNy9OC89Sj0xUyHn8AKFvHSQyNxMhfTMwwtKwcqWApVlPtzdXqKQl5h7ihFqtnlhmXFaQTaCX2RQllSCkDczSzfPMqlC4oPd8otR0R3hmACIY_wgjgmDOqaBhXERK39ARiJIJrFEwSM_MS_9Fpskw42ZXKba8WFc17sKzyq9vzO1MSl--ZV9LXkA9xZgefIAAAA&sa=X&ved=2ahUKEwiC_K3lxIj1AhWidt8KHeU-AUMQs9oBKAN6BAgaEAY",
+                    "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=Pham+Nhat+Hoang&stick=H4sIAAAAAAAAAOOQUeLVT9c3NEwyM8s2LbCoMlJMz0xUODLx8Jq8DIWCjIe7FuYq5AGptSUKZcc2PNy9OC89Sj0xUyHn8AKFvHSQyNxMhfTMwwtKwcqWApVlPtzdXqKQl5h7ihFqtnlhmXFaQTaCX2RQllSCkDczSzfPMqlC4oPd8otR0R3hmACIY_wgjgmDOqaBhXERK39ARiJIJrFEwSM_MS_9Fpskw42ZXKba8WFc17sKzyq9vzO1MSl--ZV9LXkA9xZgefIAAAA"
+                }
+            ],
+            "see_more_link": "https://www.google.com/search?q=Gia+%C4%91%C3%ACnh+Ph%E1%BA%A1m+Nh%E1%BA%ADt+V%C6%B0%E1%BB%A3ng&stick=H4sIAAAAAAAAAOOQMVJMz0xUODLx8Jq8DIWCjIe7FuYq5AGptSUKZcc2PNy9OC89Sj0xUyHn8AKFvHSQyNxMhfTMwwtKwcqWApVlPtzdXqKQl5h7ipFXP13f0DDJvLDMOK0gG8EvMihLKkHIm5mlm2eZVCHxs00LLKp-MSq6IxwTAHGMH8QxYVDHNLAwLmIlrOwWmyTDjZlcptrxYVzXuwrPKr2_M7UxKX75lX0teQDvENCc9QAAAA&sa=X&ved=2ahUKEwiC_K3lxIj1AhWidt8KHeU-AUMQ4qYDegQIGhAH",
+            "see_more_serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=Gia+%C4%91%C3%ACnh+Ph%E1%BA%A1m+Nh%E1%BA%ADt+V%C6%B0%E1%BB%A3ng&stick=H4sIAAAAAAAAAOOQMVJMz0xUODLx8Jq8DIWCjIe7FuYq5AGptSUKZcc2PNy9OC89Sj0xUyHn8AKFvHSQyNxMhfTMwwtKwcqWApVlPtzdXqKQl5h7ipFXP13f0DDJvLDMOK0gG8EvMihLKkHIm5mlm2eZVCHxs00LLKp-MSq6IxwTAHGMH8QxYVDHNLAwLmIlrOwWmyTDjZlcptrxYVzXuwrPKr2_M7UxKX75lX0teQDvENCc9QAAAA"
+        }
+    ],
+    "answer_box": {
+        "type": "organic_result",
+        "title": "Vi\u1ec7t Nam c\u00f3 6 t\u1ef7 ph\u00fa USD tr\u00ean x\u1ebfp h\u1ea1ng to\u00e0n c\u1ea7u",
+        "link": "http://baochinhphu.vn/Thi-truong/Viet-Nam-co-6-ty-phu-USD-tren-xep-hang-toan-cau/427872.vgp#:~:text=%C4%90%C3%A2y%20l%C3%A0%20n%C4%83m%20Vi%E1%BB%87t%20Nam,th%E1%BB%A9%20h%E1%BA%A1ng%20trong%20n%C4%83m%20tr%C6%B0%E1%BB%9Bc.",
+        "displayed_link": "http://baochinhphu.vn \u203a Thi-truong \u203a Viet-Nam-co-6-ty-p...",
+        "date": "Apr 7, 2021",
+        "snippet": "\u0110\u00e2y l\u00e0 n\u0103m Vi\u1ec7t Nam c\u00f3 nhi\u1ec1u \u0111\u1ea1i di\u1ec7n nh\u1ea5t trong danh s\u00e1ch. \u00d4ng Ph\u1ea1m Nh\u1eadt V\u01b0\u1ee3ng, Ch\u1ee7 t\u1ecbch Vingroup (VIC) ti\u1ebfp t\u1ee5c l\u00e0 ng\u01b0\u1eddi gi\u00e0u nh\u1ea5t t\u1ea1i Vi\u1ec7t Nam v\u1edbi kh\u1ed1i t\u00e0i s\u1ea3n theo t\u00ednh to\u00e1n c\u1ee7a Forbes l\u00e0 7,3 t\u1ef7 USD. Theo x\u1ebfp h\u1ea1ng c\u1ee7a Forbes, \u00f4ng V\u01b0\u1ee3ng l\u00e0 ng\u01b0\u1eddi gi\u00e0u th\u1ee9 344 tr\u00ean th\u1ebf gi\u1edbi, cao h\u01a1n th\u1ee9 h\u1ea1ng trong n\u0103m tr\u01b0\u1edbc.",
+        "thumbnail": "https://serpapi.com/searches/61cc1514272aa5cde7254ab6/images/998517310291886a912268a4154454bed619c3194c4d925d.jpeg"
+    },
+    "organic_results": [
+        {
+            "position": 1,
+            "title": "3 t\u1ec9 ph\u00fa gi\u00e0u nh\u1ea5t Vi\u1ec7t Nam \u0111ang l\u00e0m \u0103n ra sao? - Tu\u1ed5i tr\u1ebb",
+            "link": "https://tuoitre.vn/3-ti-phu-giau-nhat-viet-nam-dang-lam-an-ra-sao-20210520095357356.htm",
+            "displayed_link": "https://tuoitre.vn \u203a 3-ti-phu-giau-nhat...",
+            "date": "May 20, 2021",
+            "snippet": "Top 3 ng\u01b0\u1eddi gi\u00e0u nh\u1ea5t Vi\u1ec7t Nam (t\u1eeb tr\u00e1i qua): T\u1ec9 ph\u00fa Ph\u1ea1m Nh\u1eadt V\u01b0\u1ee3ng (t\u00e0i s\u1ea3n 8,3 t\u1ec9 USD), t\u1ec9 ph\u00fa Tr\u1ea7n \u0110\u00ecnh Long (t\u00e0i s\u1ea3n 3,3 t\u1ec9 USD), t\u1ec9 ph\u00fa ...",
+            "about_this_result": {
+                "source": {
+                    "description": "Tu\u1ed5i Tr\u1ebb is a major daily newspaper in Vietnam, publishing in Vietnamese from H\u1ed3 Ch\u00ed Minh City. It was originally a publication of the H\u1ed3 Ch\u00ed Minh Communist Youth Union of Ho Chi Minh City, and while it is still the official mouthpiece of that organization, it has grown to become the largest newspaper in the country.",
+                    "source_info_link": "https://en.wikipedia.org/wiki/Tu%E1%BB%95i_Tr%E1%BA%BB",
+                    "security": "secure",
+                    "icon": "https://serpapi.com/searches/61cc1514272aa5cde7254ab6/images/013b773969c1941189847decc442c4b186f2e0fdc4a1d62f5ba55e0b158a9b5f1630fdea29545c29109a05b580f938c3.png"
+                },
+                "keywords": [
+                    "ai",
+                    "l\u00e0",
+                    "ng\u01b0\u1eddi",
+                    "gi\u00e0u",
+                    "nh\u1ea5t",
+                    "vi\u1ec7t",
+                    "nam"
+                ],
+                "related_keywords": [
+                    "nhat",
+                    "viet"
+                ],
+                "languages": [
+                    "English"
+                ],
+                "regions": [
+                    "Indonesia"
+                ]
+            },
+            "cached_page_link": "https://webcache.googleusercontent.com/search?q=cache:XBS16XDP6WYJ:https://tuoitre.vn/3-ti-phu-giau-nhat-viet-nam-dang-lam-an-ra-sao-20210520095357356.htm+&cd=4&hl=en&ct=clnk&gl=id"
+        },
+        {
+            "position": 2,
+            "title": "Top t\u1ec9 ph\u00fa gi\u00e0u nh\u1ea5t Vi\u1ec7t Nam: C\u00f3 ng\u01b0\u1eddi t\u0103ng g\u1ea5p \u0111\u00f4i t\u00e0i s\u1ea3n ...",
+            "link": "https://laodong.vn/doanh-nghiep-doanh-nhan/top-ti-phu-giau-nhat-viet-nam-co-nguoi-tang-gap-doi-tai-san-bat-chap-dich-987960.ldo",
+            "displayed_link": "https://laodong.vn \u203a top-ti-phu-giau-...",
+            "date": "5 days ago",
+            "snippet": "Theo c\u1eadp nh\u1eadt m\u1edbi nh\u1ea5t t\u1eeb Forbes, t\u1ed5ng t\u00e0i s\u1ea3n 6 t\u1ec9 ph\u00fa gi\u00e0u nh\u1ea5t Vi\u1ec7t Nam t\u00ednh \u0111\u1ebfn ng\u00e0y 23.12.2021 l\u00ean t\u1edbi 19,5 t\u1ec9 USD. Trong \u0111\u00f3, c\u00f3 nh\u1eefng t\u1ec9 ...",
+            "about_this_result": {
+                "source": {
+                    "description": "laodong.vn was first indexed by Google more than 10 years ago",
+                    "security": "secure",
+                    "icon": "https://serpapi.com/searches/61cc1514272aa5cde7254ab6/images/013b773969c1941189847decc442c4b11d3294e143cacce9d890d9245f6dfc8ff32fa273a1516c2caf8670a18a47616a.png"
+                },
+                "keywords": [
+                    "l\u00e0",
+                    "ng\u01b0\u1eddi",
+                    "gi\u00e0u",
+                    "nh\u1ea5t",
+                    "vi\u1ec7t",
+                    "nam"
+                ],
+                "related_keywords": [
+                    "doi",
+                    "nguoi",
+                    "nhat",
+                    "viet"
+                ],
+                "languages": [
+                    "English"
+                ],
+                "regions": [
+                    "Indonesia"
+                ]
+            }
+        },
+        {
+            "position": 3,
+            "title": "gi\u00e0u nh\u1ea5t Vi\u1ec7t Nam,T\u00e0i s\u1ea3n t\u1ef7 ph\u00fa Vi\u1ec7t Nam: Ai m\u1edbi th\u1ef1c ch\u1ea5t l\u00e0 s\u1ed1 1?",
+            "link": "https://vietnamnet.vn/giau-nhat-viet-nam-tag75959.html",
+            "displayed_link": "https://vietnamnet.vn \u203a giau-nhat-viet...",
+            "snippet": "Tin t\u1ee9c,h\u00ecnh \u1ea3nh,video clip m\u1edbi nh\u1ea5t v\u1ec1 gi\u00e0u nh\u1ea5t Vi\u1ec7t Nam \u0111\u01b0\u1ee3c c\u1eadp nh\u1eadt li\u00ean t\u1ee5c. ... L\u1ed9 kh\u1ed1i t\u00e0i s\u1ea3n '\u1ea9n danh': T\u1ef7 ph\u00fa Vi\u1ec7t ai m\u1edbi th\u1ef1c ch\u1ea5t l\u00e0 s\u1ed1 1?",
+            "about_this_result": {
+                "source": {
+                    "description": "VietNamNet is an online newspaper in Vietnam affiliated to the Ministry of Information and Communications. Its content is published daily in both Vietnamese and English, and cover categories including international news, information technology, sports, music, fashion, online interviews, music, etc.",
+                    "source_info_link": "https://en.wikipedia.org/wiki/VietNamNet",
+                    "security": "secure",
+                    "icon": "https://serpapi.com/searches/61cc1514272aa5cde7254ab6/images/013b773969c1941189847decc442c4b1fbe44cc59befe34e7f47e5876d5d85f9f084cdb7016a0d752a84274fe955ca6e.png"
+                },
+                "keywords": [
+                    "ai",
+                    "l\u00e0",
+                    "ng\u01b0\u1eddi",
+                    "gi\u00e0u",
+                    "nh\u1ea5t",
+                    "vi\u1ec7t",
+                    "nam"
+                ],
+                "related_keywords": [
+                    "nhat",
+                    "viet"
+                ],
+                "languages": [
+                    "English"
+                ],
+                "regions": [
+                    "Indonesia"
+                ]
+            }
+        },
+        {
+            "position": 4,
+            "title": "Danh s\u00e1ch top 200 doanh nh\u00e2n gi\u00e0u nh\u1ea5t TTCK Vi\u1ec7t ... - CafeF",
+            "link": "http://s.cafef.vn/top/ceo.chn",
+            "displayed_link": "http://s.cafef.vn \u203a top \u203a ceo",
+            "about_this_result": {
+                "source": {
+                    "description": "s.cafef.vn was first indexed by Google in May 2012",
+                    "security": "not secure",
+                    "icon": "https://serpapi.com/searches/61cc1514272aa5cde7254ab6/images/013b773969c1941189847decc442c4b1f5fc53c50a012352c6a9c537e682a4cb52ab150a10414e92062d35fa07cb505a.png"
+                },
+                "keywords": [
+                    "l\u00e0",
+                    "ng\u01b0\u1eddi",
+                    "gi\u00e0u",
+                    "nh\u1ea5t",
+                    "vi\u1ec7t",
+                    "nam"
+                ],
+                "languages": [
+                    "English"
+                ],
+                "regions": [
+                    "Indonesia"
+                ]
+            },
+            "cached_page_link": "http://webcache.googleusercontent.com/search?q=cache:mLfYlQwhaPAJ:s.cafef.vn/top/ceo.chn+&cd=7&hl=en&ct=clnk&gl=id",
+            "related_pages_link": "https://www.google.com/search?q=related:s.cafef.vn/top/ceo.chn+ai+l%C3%A0+ng%C6%B0%E1%BB%9Di+gi%C3%A0u+nh%E1%BA%A5t+vi%E1%BB%87t+nam",
+            "rich_snippet_table": [
+                {
+                    "v\u1ecb_tr\u00ed": "1",
+                    "t\u00ean": "Ph\u1ea1m Nh\u1eadt V\u01b0\u1ee3ng",
+                    "tu\u1ed5i": "53",
+                    "gi\u00e1_tr\u1ecb_t\u00e0i_s\u1ea3n_hi\u1ec7n_t\u1ea1i": "212,142"
+                },
+                {
+                    "v\u1ecb_tr\u00ed": "2",
+                    "t\u00ean": "Tr\u1ea7n \u0110\u00ecnh Long",
+                    "tu\u1ed5i": "60",
+                    "gi\u00e1_tr\u1ecb_t\u00e0i_s\u1ea3n_hi\u1ec7n_t\u1ea1i": "53,421"
+                },
+                {
+                    "v\u1ecb_tr\u00ed": "3",
+                    "t\u00ean": "H\u1ed3 H\u00f9ng Anh",
+                    "tu\u1ed5i": "51",
+                    "gi\u00e1_tr\u1ecb_t\u00e0i_s\u1ea3n_hi\u1ec7n_t\u1ea1i": "44,936"
+                }
+            ]
+        },
+        {
+            "position": 5,
+            "title": "Danh s\u00e1ch t\u1ef7 ph\u00fa Vi\u1ec7t Nam theo gi\u00e1 tr\u1ecb t\u00e0i s\u1ea3n - Wikipedia",
+            "link": "https://vi.wikipedia.org/wiki/Danh_s%C3%A1ch_t%E1%BB%B7_ph%C3%BA_Vi%E1%BB%87t_Nam_theo_gi%C3%A1_tr%E1%BB%8B_t%C3%A0i_s%E1%BA%A3n",
+            "displayed_link": "https://vi.wikipedia.org \u203a wiki \u203a Dan...",
+            "snippet": "Bloomberg l\u00e0 b\u1ea3ng x\u1ebfp h\u1ea1ng h\u00e0ng ng\u00e0y c\u1ee7a nh\u1eefng t\u1ef7 ph\u00fa gi\u00e0u nh\u1ea5t th\u1ebf gi\u1edbi. Ch\u1ec9 s\u1ed1 ra m\u1eaft v\u00e0o th\u00e1ng 3 n\u0103m 2012 v\u00e0 theo d\u00f5i gi\u00e1 tr\u1ecb r\u00f2ng c\u1ee7a 500 ng\u01b0\u1eddi gi\u00e0u nh\u1ea5t ...",
+            "about_this_result": {
+                "source": {
+                    "description": "Wikipedia is a free content, multilingual online encyclopedia written and maintained by a community of volunteers through a model of open collaboration, using a wiki-based editing system. Individual contributors, also called editors, are known as Wikipedians.",
+                    "source_info_link": "https://en.wikipedia.org/wiki/Wikipedia",
+                    "security": "secure"
+                },
+                "keywords": [
+                    "l\u00e0",
+                    "ng\u01b0\u1eddi",
+                    "gi\u00e0u",
+                    "nh\u1ea5t",
+                    "vi\u1ec7t",
+                    "nam"
+                ],
+                "languages": [
+                    "English"
+                ],
+                "regions": [
+                    "Indonesia"
+                ]
+            },
+            "cached_page_link": "https://webcache.googleusercontent.com/search?q=cache:F_TX6nC46JUJ:https://vi.wikipedia.org/wiki/Danh_s%25C3%25A1ch_t%25E1%25BB%25B7_ph%25C3%25BA_Vi%25E1%25BB%2587t_Nam_theo_gi%25C3%25A1_tr%25E1%25BB%258B_t%25C3%25A0i_s%25E1%25BA%25A3n+&cd=8&hl=en&ct=clnk&gl=id"
+        },
+        {
+            "position": 6,
+            "title": "6 t\u1ef7 ph\u00fa gi\u00e0u nh\u1ea5t Vi\u1ec7t Nam s\u1edf h\u1eefu t\u1ed5ng t\u00e0i s\u1ea3n 16,5 t\u1ef7 USD",
+            "link": "https://vneconomy.vn/6-ty-phu-giau-nhat-viet-nam-so-huu-tong-tai-san-16-5-ty-usd.htm",
+            "displayed_link": "https://vneconomy.vn \u203a 6-ty-phu-gia...",
+            "date": "Apr 8, 2021",
+            "snippet": "\u00d4ng Ph\u1ea1m Nh\u1eadt V\u01b0\u1ee3ng, Ch\u1ee7 t\u1ecbch T\u1eadp \u0111o\u00e0n Vingroup, l\u00e0 ng\u01b0\u1eddi gi\u00e0u nh\u1ea5t Vi\u1ec7t Nam n\u0103m th\u1ee9 9 li\u00ean ti\u1ebfp, v\u1edbi t\u00e0i s\u1ea3n t\u0103ng th\u00eam g\u1ea7n 2 t\u1ef7 USD trong ...",
+            "about_this_result": {
+                "source": {
+                    "description": "vneconomy.vn was first indexed by Google more than 10 years ago",
+                    "security": "secure",
+                    "icon": "https://serpapi.com/searches/61cc1514272aa5cde7254ab6/images/013b773969c1941189847decc442c4b175302a321f955e0e781eca3310823a1f6ec42619fabccd6dfd7609dde2aaa1c5.png"
+                },
+                "keywords": [
+                    "l\u00e0",
+                    "ng\u01b0\u1eddi",
+                    "gi\u00e0u",
+                    "nh\u1ea5t",
+                    "vi\u1ec7t",
+                    "nam"
+                ],
+                "related_keywords": [
+                    "nhat",
+                    "viet"
+                ],
+                "languages": [
+                    "English"
+                ],
+                "regions": [
+                    "Indonesia"
+                ]
+            },
+            "cached_page_link": "https://webcache.googleusercontent.com/search?q=cache:69DN-wmceMYJ:https://vneconomy.vn/6-ty-phu-giau-nhat-viet-nam-so-huu-tong-tai-san-16-5-ty-usd.htm+&cd=13&hl=en&ct=clnk&gl=id"
+        },
+        {
+            "position": 7,
+            "title": "6 t\u1ef7 ph\u00fa USD Vi\u1ec7t \u0111ang s\u1edf h\u1eefu bao nhi\u00eau ti\u1ec1n? - VTC News",
+            "link": "https://vtc.vn/6-ty-phu-usd-viet-dang-so-huu-bao-nhieu-tien-ar621863.html",
+            "displayed_link": "https://vtc.vn \u203a Doanh nh\u00e2n \u203a Kinh t\u1ebf",
+            "date": "Jul 2, 2021",
+            "snippet": "T\u00ednh \u0111\u1ebfn ng\u00e0y 1/7, trong danh s\u00e1ch t\u1ef7 ph\u00fa gi\u00e0u nh\u1ea5t h\u00e0nh tinh c\u1ee7a Forbes, Vi\u1ec7t Nam c\u00f3 6 \u0111\u1ea1i di\u1ec7n v\u1edbi t\u1ed5ng gi\u00e1 tr\u1ecb t\u00e0i s\u1ea3n l\u00ean t\u1edbi 19,2 t\u1ef7 USD.",
+            "about_this_result": {
+                "source": {
+                    "description": "vtc.vn was first indexed by Google more than 10 years ago",
+                    "security": "secure",
+                    "icon": "https://serpapi.com/searches/61cc1514272aa5cde7254ab6/images/013b773969c1941189847decc442c4b173c92657d203a88b8e385ea3effe7c7fe0613631a88205bbcbbe55e1e725d2f4.png"
+                },
+                "keywords": [
+                    "l\u00e0",
+                    "ng\u01b0\u1eddi",
+                    "gi\u00e0u",
+                    "nh\u1ea5t",
+                    "vi\u1ec7t",
+                    "nam"
+                ],
+                "related_keywords": [
+                    "viet"
+                ],
+                "languages": [
+                    "English"
+                ],
+                "regions": [
+                    "Indonesia"
+                ]
+            },
+            "cached_page_link": "https://webcache.googleusercontent.com/search?q=cache:39J4nzUmid0J:https://vtc.vn/6-ty-phu-usd-viet-dang-so-huu-bao-nhieu-tien-ar621863.html+&cd=14&hl=en&ct=clnk&gl=id"
+        }
+    ],
+    "related_searches": [
+        {
+            "query": "ng\u01b0\u1eddi gi\u00e0u vi\u1ec7t nam",
+            "link": "https://www.google.com/search?q=Ng%C6%B0%E1%BB%9Di+gi%C3%A0u+Vi%E1%BB%87t+Nam&sa=X&ved=2ahUKEwiC_K3lxIj1AhWidt8KHeU-AUMQ1QJ6BAgzEAE"
+        },
+        {
+            "query": "top 10 ng\u01b0\u1eddi gi\u00e0u nh\u1ea5t vi\u1ec7t nam n\u0103m 2021",
+            "link": "https://www.google.com/search?q=Top+10+ng%C6%B0%E1%BB%9Di+gi%C3%A0u+nh%E1%BA%A5t+Vi%E1%BB%87t+Nam+n%C4%83m+2021&sa=X&ved=2ahUKEwiC_K3lxIj1AhWidt8KHeU-AUMQ1QJ6BAgqEAE"
+        },
+        {
+            "query": "top 100 ng\u01b0\u1eddi gi\u00e0u nh\u1ea5t vi\u1ec7t nam",
+            "link": "https://www.google.com/search?q=Top+100+ng%C6%B0%E1%BB%9Di+gi%C3%A0u+nh%E1%BA%A5t+Vi%E1%BB%87t+Nam&sa=X&ved=2ahUKEwiC_K3lxIj1AhWidt8KHeU-AUMQ1QJ6BAguEAE"
+        },
+        {
+            "query": "top 100 ng\u01b0\u1eddi gi\u00e0u nh\u1ea5t th\u1ebf gi\u1edbi",
+            "link": "https://www.google.com/search?q=Top+100+ng%C6%B0%E1%BB%9Di+gi%C3%A0u+nh%E1%BA%A5t+th%E1%BA%BF+gi%E1%BB%9Bi&sa=X&ved=2ahUKEwiC_K3lxIj1AhWidt8KHeU-AUMQ1QJ6BAgtEAE"
+        },
+        {
+            "query": "nh\u1eefng ng\u01b0\u1eddi gi\u00e0u nh\u1ea5t vi\u1ec7t nam 2021",
+            "link": "https://www.google.com/search?q=Nh%E1%BB%AFng+ng%C6%B0%E1%BB%9Di+gi%C3%A0u+nh%E1%BA%A5t+Vi%E1%BB%87t+Nam+2021&sa=X&ved=2ahUKEwiC_K3lxIj1AhWidt8KHeU-AUMQ1QJ6BAgrEAE"
+        },
+        {
+            "query": "top 100 ng\u01b0\u1eddi gi\u00e0u nh\u1ea5t vi\u1ec7t nam n\u0103m 2021",
+            "link": "https://www.google.com/search?q=Top+100+ng%C6%B0%E1%BB%9Di+gi%C3%A0u+nh%E1%BA%A5t+Vi%E1%BB%87t+Nam+n%C4%83m+2021&sa=X&ved=2ahUKEwiC_K3lxIj1AhWidt8KHeU-AUMQ1QJ6BAgxEAE"
+        },
+        {
+            "query": "top 100 ng\u01b0\u1eddi gi\u00e0u nh\u1ea5t vi\u1ec7t nam 2020",
+            "link": "https://www.google.com/search?q=Top+100+ng%C6%B0%E1%BB%9Di+gi%C3%A0u+nh%E1%BA%A5t+Vi%E1%BB%87t+Nam+2020&sa=X&ved=2ahUKEwiC_K3lxIj1AhWidt8KHeU-AUMQ1QJ6BAgnEAE"
+        },
+        {
+            "query": "top 10 ng\u01b0\u1eddi gi\u00e0u nh\u1ea5t vi\u1ec7t nam",
+            "link": "https://www.google.com/search?q=Top+10+ng%C6%B0%E1%BB%9Di+gi%C3%A0u+nh%E1%BA%A5t+Vi%E1%BB%87t+Nam&sa=X&ved=2ahUKEwiC_K3lxIj1AhWidt8KHeU-AUMQ1QJ6BAgkEAE"
+        }
+    ],
+    "pagination": {
+        "current": 1,
+        "next": "https://www.google.com/search?q=ai+l%C3%A0+ng%C6%B0%E1%BB%9Di+gi%C3%A0u+nh%E1%BA%A5t+vi%E1%BB%87t+nam&ei=FBXMYYKiLKLt_Qbl_YSYBA&start=10&sa=N&ved=2ahUKEwiC_K3lxIj1AhWidt8KHeU-AUMQ8NMDegQIARBJ",
+        "other_pages": {
+            "2": "https://www.google.com/search?q=ai+l%C3%A0+ng%C6%B0%E1%BB%9Di+gi%C3%A0u+nh%E1%BA%A5t+vi%E1%BB%87t+nam&ei=FBXMYYKiLKLt_Qbl_YSYBA&start=10&sa=N&ved=2ahUKEwiC_K3lxIj1AhWidt8KHeU-AUMQ8tMDegQIARA3",
+            "3": "https://www.google.com/search?q=ai+l%C3%A0+ng%C6%B0%E1%BB%9Di+gi%C3%A0u+nh%E1%BA%A5t+vi%E1%BB%87t+nam&ei=FBXMYYKiLKLt_Qbl_YSYBA&start=20&sa=N&ved=2ahUKEwiC_K3lxIj1AhWidt8KHeU-AUMQ8tMDegQIARA5",
+            "4": "https://www.google.com/search?q=ai+l%C3%A0+ng%C6%B0%E1%BB%9Di+gi%C3%A0u+nh%E1%BA%A5t+vi%E1%BB%87t+nam&ei=FBXMYYKiLKLt_Qbl_YSYBA&start=30&sa=N&ved=2ahUKEwiC_K3lxIj1AhWidt8KHeU-AUMQ8tMDegQIARA7",
+            "5": "https://www.google.com/search?q=ai+l%C3%A0+ng%C6%B0%E1%BB%9Di+gi%C3%A0u+nh%E1%BA%A5t+vi%E1%BB%87t+nam&ei=FBXMYYKiLKLt_Qbl_YSYBA&start=40&sa=N&ved=2ahUKEwiC_K3lxIj1AhWidt8KHeU-AUMQ8tMDegQIARA9",
+            "6": "https://www.google.com/search?q=ai+l%C3%A0+ng%C6%B0%E1%BB%9Di+gi%C3%A0u+nh%E1%BA%A5t+vi%E1%BB%87t+nam&ei=FBXMYYKiLKLt_Qbl_YSYBA&start=50&sa=N&ved=2ahUKEwiC_K3lxIj1AhWidt8KHeU-AUMQ8tMDegQIARA_",
+            "7": "https://www.google.com/search?q=ai+l%C3%A0+ng%C6%B0%E1%BB%9Di+gi%C3%A0u+nh%E1%BA%A5t+vi%E1%BB%87t+nam&ei=FBXMYYKiLKLt_Qbl_YSYBA&start=60&sa=N&ved=2ahUKEwiC_K3lxIj1AhWidt8KHeU-AUMQ8tMDegQIARBB",
+            "8": "https://www.google.com/search?q=ai+l%C3%A0+ng%C6%B0%E1%BB%9Di+gi%C3%A0u+nh%E1%BA%A5t+vi%E1%BB%87t+nam&ei=FBXMYYKiLKLt_Qbl_YSYBA&start=70&sa=N&ved=2ahUKEwiC_K3lxIj1AhWidt8KHeU-AUMQ8tMDegQIARBD",
+            "9": "https://www.google.com/search?q=ai+l%C3%A0+ng%C6%B0%E1%BB%9Di+gi%C3%A0u+nh%E1%BA%A5t+vi%E1%BB%87t+nam&ei=FBXMYYKiLKLt_Qbl_YSYBA&start=80&sa=N&ved=2ahUKEwiC_K3lxIj1AhWidt8KHeU-AUMQ8tMDegQIARBF",
+            "10": "https://www.google.com/search?q=ai+l%C3%A0+ng%C6%B0%E1%BB%9Di+gi%C3%A0u+nh%E1%BA%A5t+vi%E1%BB%87t+nam&ei=FBXMYYKiLKLt_Qbl_YSYBA&start=90&sa=N&ved=2ahUKEwiC_K3lxIj1AhWidt8KHeU-AUMQ8tMDegQIARBH"
+        }
+    },
+    "serpapi_pagination": {
+        "current": 1,
+        "next_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=ai+l%C3%A0+ng%C6%B0%E1%BB%9Di+gi%C3%A0u+nh%E1%BA%A5t+vi%E1%BB%87t+nam&start=10",
+        "next": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=ai+l%C3%A0+ng%C6%B0%E1%BB%9Di+gi%C3%A0u+nh%E1%BA%A5t+vi%E1%BB%87t+nam&start=10",
+        "other_pages": {
+            "2": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=ai+l%C3%A0+ng%C6%B0%E1%BB%9Di+gi%C3%A0u+nh%E1%BA%A5t+vi%E1%BB%87t+nam&start=10",
+            "3": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=ai+l%C3%A0+ng%C6%B0%E1%BB%9Di+gi%C3%A0u+nh%E1%BA%A5t+vi%E1%BB%87t+nam&start=20",
+            "4": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=ai+l%C3%A0+ng%C6%B0%E1%BB%9Di+gi%C3%A0u+nh%E1%BA%A5t+vi%E1%BB%87t+nam&start=30",
+            "5": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=ai+l%C3%A0+ng%C6%B0%E1%BB%9Di+gi%C3%A0u+nh%E1%BA%A5t+vi%E1%BB%87t+nam&start=40",
+            "6": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=ai+l%C3%A0+ng%C6%B0%E1%BB%9Di+gi%C3%A0u+nh%E1%BA%A5t+vi%E1%BB%87t+nam&start=50",
+            "7": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=ai+l%C3%A0+ng%C6%B0%E1%BB%9Di+gi%C3%A0u+nh%E1%BA%A5t+vi%E1%BB%87t+nam&start=60",
+            "8": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=ai+l%C3%A0+ng%C6%B0%E1%BB%9Di+gi%C3%A0u+nh%E1%BA%A5t+vi%E1%BB%87t+nam&start=70",
+            "9": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=ai+l%C3%A0+ng%C6%B0%E1%BB%9Di+gi%C3%A0u+nh%E1%BA%A5t+vi%E1%BB%87t+nam&start=80",
+            "10": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=ai+l%C3%A0+ng%C6%B0%E1%BB%9Di+gi%C3%A0u+nh%E1%BA%A5t+vi%E1%BB%87t+nam&start=90"
+        }
+    }
+}
